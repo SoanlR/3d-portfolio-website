@@ -38,7 +38,6 @@ const HeroInnerContainer = styled.div`
   align-items: center;
   width: 100%;
   max-width: 1100px;
-
   @media (max-width: 960px) {
     flex-direction: column;
   }
